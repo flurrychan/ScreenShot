@@ -15,7 +15,7 @@ jobs:
       run: |
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://akilar.top/ -o akilar.top.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://zfe.one/ -o zfe.one.jpg
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.antmoe.com/ -o www.antmoe.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.antmoe.com/ -o antmoe.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://butterfly.js.org/ -o butterfly.js.org.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.lete114.top/ -o www.lete114.top.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://weilining.cf/ -o weilining.cf.jpg
@@ -23,7 +23,7 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.bufferfly.cn/ -o www.bufferfly.cn.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://m.mr90.top/ -o m.mr90.top.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.sumual.cn/ -o www.sumual.cn.jpg
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://keepdai.cn/ -o keepdai.cn.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.keepdai.cn/ -o blog.keepdai.cn.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.ql-isaac.cn/ -o blog.ql-isaac.cn.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https:/aabbj.com/ -o aabbj.com.jpg
 
