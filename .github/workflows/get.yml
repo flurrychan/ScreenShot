@@ -28,6 +28,7 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://aabbj.com/ -o aabbj.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://drearry.com/ -o drearry.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://networkos.club/ -o networkos.club.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https:/www.jacksonxe.cn/ -o www.jacksonxe.cn.jpg
 
         curl https://purge.jsdelivr.net/gh/flurrychan/ScreenShot@gh-pages/*.*
     - name: Deploy
